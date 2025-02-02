@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CleverBrain
+comment0.text=\r\n\ \ Write\ a\ one-sentence\ summary\ of\ your\ class\ here.\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ Chloe\ Chappelle\ (cchappe4)\r\n\ \ @version\ 2022.08.06\r\n
+comment1.params=
+comment1.target=CleverBrain()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ CleverBrain\ object.\r\n
+comment2.params=board\ piece\ heightLimit
+comment2.target=student.tetris.Move\ bestMove(student.tetris.Board,\ student.tetris.Piece,\ int)
+comment3.params=board
+comment3.target=double\ rateBoard(student.tetris.Board)
+comment4.params=board
+comment4.target=double\ calcAverageColumnHeight(student.tetris.Board)
+comment4.text=\r\n\ Calculates\ the\ average\ columns\ height\ using\ the\ getColumnHeights()\r\n\ method\ from\ the\ Board\ class.\r\n\ \r\n\ @param\ board\ The\ board\ to\ find\ the\ average\ columns\ heights\ for.\r\n\ \r\n\ @return\ The\ average\ column\ height\ of\ the\ board\ (a\ double).\r\n
+comment5.params=board
+comment5.target=int\ calcNumBlocks(student.tetris.Board)
+comment5.text=\r\n\ Calculates\ the\ total\ number\ of\ blocks\ on\ the\ board.\r\n\ \r\n\ @param\ board\ The\ board\ to\ get\ the\ number\ of\ blocks\ from.\r\n\ \r\n\ @return\ The\ total\ number\ of\ blocks\ on\ the\ board\ (an\ int).\r\n
+numComments=6
